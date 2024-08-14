@@ -1,2 +1,4 @@
 # da-decryptor
-Data Annotation Decryptor Task
+DA Decryptor Task
+
+Converts table of characters and their coordinates into a pseudographic text 
